@@ -2,7 +2,7 @@
 ### We'll publish source codes soon
 Stay tuned!
 
-Fill out [the survey](https://anytype.typeform.com/contributors) to let us know how you'd like to contribute.
+Fill out [the survey](https://anytype.typeform.com/contributors?utm_source=github) to let us know how you'd like to contribute.
 
 ---
-[Get Anytype](https://anytype.io) • [Fill out the survey](https://anytype.typeform.com/contributors)
+[Get Anytype](https://anytype.io) • [Fill out the survey](https://anytype.typeform.com/contributors?utm_source=github)
