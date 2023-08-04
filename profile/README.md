@@ -15,4 +15,7 @@ We see our products as an open ecosystem where the community can contribute in v
 Contributors can develop integrations, design themes, create use cases for the in-app library, or provide documentation and translations.
 
 ---
+🎯 Current focus: [🌍 Localization Project](https://github.com/orgs/anyproto/discussions/45)
+
+---
 [Get Anytype](https://anytype.io) • [Join Contributors Community](https://github.com/orgs/anyproto/discussions) • [Fill out the survey](https://anytype.typeform.com/contributors?utm_source=github)
