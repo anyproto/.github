@@ -19,7 +19,5 @@ Contributors can develop integrations, design themes, create use cases for the i
 
 [🌍 Localization Project](https://github.com/orgs/anyproto/discussions/45)
 
-[🖥️ Docker for Self-hosting](https://github.com/orgs/anyproto/discussions/17)
-
 ---
 [Get Anytype](https://anytype.io) • [Join Contributors Community](https://github.com/orgs/anyproto/discussions) • [Fill out the survey](https://anytype.typeform.com/contributors?utm_source=github)
