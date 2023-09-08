@@ -17,6 +17,7 @@ Contributors can develop integrations, design themes, create use cases for the i
 ---
 #### 🤠 Help wanted
 
+[💱 Converters Development](https://github.com/orgs/anyproto/discussions/82)
 [🌍 Localization Project](https://github.com/orgs/anyproto/discussions/45)
 
 ---
