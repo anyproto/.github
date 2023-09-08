@@ -18,7 +18,8 @@ Contributors can develop integrations, design themes, create use cases for the i
 #### 🤠 Help wanted
 
 [💱 Converters Development](https://github.com/orgs/anyproto/discussions/82)
+
 [🌍 Localization Project](https://github.com/orgs/anyproto/discussions/45)
 
 ---
-[Get Anytype](https://anytype.io) • [Join Contributors Community](https://github.com/orgs/anyproto/discussions) • [Fill out the survey](https://anytype.typeform.com/contributors?utm_source=github)
+[Get Anytype](https://anytype.io) • [Join Contributors Community](https://github.com/orgs/anyproto/discussions)
