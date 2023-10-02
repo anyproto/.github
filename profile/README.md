@@ -19,7 +19,7 @@ Contributors can develop integrations, design themes, create use cases for the i
 
 [💱 Converters Development](https://github.com/orgs/anyproto/discussions/82)
 
-[🌍 Localization Project](https://github.com/orgs/anyproto/discussions/45)
+[🌍 Mobile Localization](https://github.com/anyproto/contributors/discussions/93)
 
 ---
 [Get Anytype](https://anytype.io) • [Join Contributors Community](https://github.com/orgs/anyproto/discussions)
