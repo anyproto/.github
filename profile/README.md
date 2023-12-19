@@ -22,4 +22,4 @@ Contributors can develop integrations, design themes, create use cases for the i
 [🌍 Mobile Localization](https://github.com/anyproto/contributors/discussions/93)
 
 ---
-[Get Anytype](https://anytype.io) • [Join Contributors Community](https://github.com/orgs/anyproto/discussions)
+[Get Anytype](https://anytype.io) • [Join to contribute](https://anytype.io/contributors)
