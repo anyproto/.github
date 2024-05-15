@@ -106,7 +106,7 @@ When contributing to this project, you must agree that you have authored 100% of
 Basic rules for pull requests:
 - Pull requests generally need to be based on and opened against the `main` branch, unless by explicit agreement because the work is contributing to some more complex feature branch
 - Please follow a suggested template for the pull request description
-- When neccesary, changes are documented in `README.md` or suggestions are also made to [`tech-docs`](https://github.com/anyproto/tech-docs)
+- When necessary, changes are documented in `README.md` or suggestions are also made to [`tech-docs`](https://github.com/anyproto/tech-docs)
 
 All pull requests will be reviewed by the team.
 
