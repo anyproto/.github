@@ -1,5 +1,4 @@
-
-## Security
+# Security
 
 We take the security of our software products and services seriously.
 
