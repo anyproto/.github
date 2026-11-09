@@ -8,6 +8,7 @@ These beliefs shape how we build our protocols, libraries, and apps. Keeping dat
 
 We publish the source so you can inspect how these choices work, build the software yourself, and use it on your own terms. You can also run your own sync network or build an application on the same protocols. [Explore our repositories](https://github.com/orgs/anyproto/repositories) · [Run your own sync network](https://github.com/anyproto/any-sync-dockercompose)
 
-We welcome contributions across our projects. You can build an integration, design a theme, share something you’ve made, improve a guide, or bring a project to more people by translating it into your language.
+We welcome contributions across our projects. You can build an integration, design a theme, share something you’ve made, improve a guide, or bring a project to more people by translating it into your language
+
 ---
 [Get Anytype](https://anytype.io) • [Join to contribute](https://anytype.io/contributors)
